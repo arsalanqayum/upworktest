@@ -1,0 +1,43 @@
+/*Header SCSS*/
+.bg-color {
+  background-color: #f8f9fa;
+  padding: 20px 0px 20px 0px;
+  .container{
+    .navbar-brand{
+      margin-left: 64px;
+      font-family: Arial;
+      font-size: 20px;
+      color: #207ee8;
+      text-decoration: none solid rgb(32, 126, 232);
+    }
+  }
+}
+
+/*Home Page SCSS*/
+#home{
+  padding-top: 30px;
+  #welcome{
+    margin-top: 10vh;
+    text-align: center;
+    h2{
+      font-family: Roboto;
+      font-size: 32px;
+      color: #212529;
+      text-decoration: none solid rgb(33, 37, 41);
+    }
+  }
+  .form-row1 {
+    width: 35vw;
+    margin: auto;
+    clear: both;
+    display: table;
+  }
+  .homeContainer{
+    #letsGo{
+      padding: 0px;
+    }
+  }
+}
+.npfundy-content{
+  height: 140vh;
+}
